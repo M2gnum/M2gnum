@@ -5,13 +5,14 @@
     "home_page_url": "https://m2gnum.github.io/MugnuM-Shop",
     "feed_url": "https://m2gnum.github.io/MugnuM-Shop/feed.json",
     "user_comment": "",
+    "icon": "https://m2gnum.github.io/MugnuM-Shop/media/website/73d7db52fa6b288158fac9ce8a827c76_72aa4dfcd4fe4b07121e6a81600da5e9.jpg",
     "author": {
         "name": "M2gnum"
     },
     "items": [
         {
-            "id": "https://m2gnum.github.io/MugnuM-Shop/mugnum-dollarhop.html",
-            "url": "https://m2gnum.github.io/MugnuM-Shop/mugnum-dollarhop.html",
+            "id": "https://m2gnum.github.io/MugnuM-Shop/mugnum-dollarhop/",
+            "url": "https://m2gnum.github.io/MugnuM-Shop/mugnum-dollarhop/",
             "title": "Ассортимент представлен ниже",
             "author": {
                 "name": "M2gnum"
