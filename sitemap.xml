@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://m2gnum.github.io/MugnuM-Shop/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://m2gnum.github.io/MugnuM-Shop/</loc>
+</url>
+<url>
+<loc>https://m2gnum.github.io/MugnuM-Shop/mugnum-dollarhop.html</loc>
+<lastmod>2022-10-25T21:12:17+03:00</lastmod>
+<image:image>
+<image:loc>https://m2gnum.github.io/MugnuM-Shop/media\posts\2/gallery/RobloxScreenShot20221008_190146184-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://m2gnum.github.io/MugnuM-Shop/media\posts\2/gallery/RobloxScreenShot20221014_204047647-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://m2gnum.github.io/MugnuM-Shop/media\posts\2/gallery/RobloxScreenShot20221014_222622050-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://m2gnum.github.io/MugnuM-Shop/media\posts\2/gallery/RobloxScreenShot20221021_221500314-thumbnail.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

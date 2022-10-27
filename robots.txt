@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://m2gnum.github.io/MugnuM-Shop/sitemap.xml
