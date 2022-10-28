@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>MugnuM-$hop</title>
-    <link href="https://m2gnum.github.io/MugnuM-Shop/feed.xml" rel="self" />
-    <link href="https://m2gnum.github.io/MugnuM-Shop" />
+    <link href="https://m2gnum.github.io/m2gnum/feed.xml" rel="self" />
+    <link href="https://m2gnum.github.io/m2gnum" />
     <updated>2022-10-27T09:37:57+03:00</updated>
     <author>
         <name>M2gnum</name>
     </author>
-    <id>https://m2gnum.github.io/MugnuM-Shop</id>
+    <id>https://m2gnum.github.io/m2gnum</id>
 
     <entry>
         <title>Ассортимент представлен ниже</title>
         <author>
             <name>M2gnum</name>
         </author>
-        <link href="https://m2gnum.github.io/MugnuM-Shop/mugnum-dollarhop/"/>
-        <id>https://m2gnum.github.io/MugnuM-Shop/mugnum-dollarhop/</id>
+        <link href="https://m2gnum.github.io/m2gnum/mugnum-dollarhop/"/>
+        <id>https://m2gnum.github.io/m2gnum/mugnum-dollarhop/</id>
 
         <updated>2022-10-27T09:37:57+03:00</updated>
             <summary></summary>
