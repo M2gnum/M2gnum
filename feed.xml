@@ -3,7 +3,7 @@
     <title>MugnuM-$hop</title>
     <link href="https://m2gnum.github.io/m2gnum/feed.xml" rel="self" />
     <link href="https://m2gnum.github.io/m2gnum" />
-    <updated>2022-10-27T09:37:57+03:00</updated>
+    <updated>2022-10-28T09:42:45+03:00</updated>
     <author>
         <name>M2gnum</name>
     </author>
@@ -17,8 +17,17 @@
         <link href="https://m2gnum.github.io/m2gnum/mugnum-dollarhop/"/>
         <id>https://m2gnum.github.io/m2gnum/mugnum-dollarhop/</id>
 
-        <updated>2022-10-27T09:37:57+03:00</updated>
+        <updated>2022-10-28T09:42:45+03:00</updated>
             <summary></summary>
-        <content></content>
+        <content type="html">
+            <![CDATA[
+                <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8347.jpg" data-size="2268x4032"><img loading="lazy" src="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8347-thumbnail.jpg" alt="" width="720" height="1280"></a></figure>
+<figure class="gallery__item"><a href="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8297.jpg" data-size="4032x2268"><img loading="lazy" src="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8297-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8299.jpg" data-size="4032x2268"><img loading="lazy" src="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8299-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8298.jpg" data-size="4032x2268"><img loading="lazy" src="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8298-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+</div></div>
+            ]]>
+        </content>
     </entry>
 </feed>

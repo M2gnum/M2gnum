@@ -13,13 +13,14 @@
             "id": "https://m2gnum.github.io/m2gnum/mugnum-dollarhop/",
             "url": "https://m2gnum.github.io/m2gnum/mugnum-dollarhop/",
             "title": "Ассортимент представлен ниже",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8347.jpg\" data-size=\"2268x4032\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8347-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"1280\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8297.jpg\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8297-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8299.jpg\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8299-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8298.jpg\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8298-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n</div></div>",
             "author": {
                 "name": "M2gnum"
             },
             "tags": [
             ],
             "date_published": "2022-10-25T21:00:46+03:00",
-            "date_modified": "2022-10-27T09:37:57+03:00"
+            "date_modified": "2022-10-28T09:42:45+03:00"
         }
     ]
 }
