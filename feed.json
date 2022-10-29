@@ -2,18 +2,18 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "MugnuM-$hop",
     "description": "",
-    "home_page_url": "https://m2gnum.github.io/m2gnum",
-    "feed_url": "https://m2gnum.github.io/m2gnum/feed.json",
+    "home_page_url": "https://m2gnum.github.io/M2gnum",
+    "feed_url": "https://m2gnum.github.io/M2gnum/feed.json",
     "user_comment": "",
     "author": {
         "name": "M2gnum"
     },
     "items": [
         {
-            "id": "https://m2gnum.github.io/m2gnum/mugnum-dollarhop/",
-            "url": "https://m2gnum.github.io/m2gnum/mugnum-dollarhop/",
+            "id": "https://m2gnum.github.io/M2gnum/mugnum-dollarhop/",
+            "url": "https://m2gnum.github.io/M2gnum/mugnum-dollarhop/",
             "title": "Ассортимент представлен ниже",
-            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8297.jpg\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8297-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8299.jpg\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8299-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8298.jpg\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8298-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n</div></div>",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--wide\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8297.jpg\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8297-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8299.jpg\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8299-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8298.jpg\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8298-thumbnail.jpg\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n</div></div>",
             "author": {
                 "name": "M2gnum"
             },

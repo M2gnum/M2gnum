@@ -1,30 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>MugnuM-$hop</title>
-    <link href="https://m2gnum.github.io/m2gnum/feed.xml" rel="self" />
-    <link href="https://m2gnum.github.io/m2gnum" />
+    <link href="https://m2gnum.github.io/M2gnum/feed.xml" rel="self" />
+    <link href="https://m2gnum.github.io/M2gnum" />
     <updated>2022-10-28T09:48:41+03:00</updated>
     <author>
         <name>M2gnum</name>
     </author>
-    <id>https://m2gnum.github.io/m2gnum</id>
+    <id>https://m2gnum.github.io/M2gnum</id>
 
     <entry>
         <title>Ассортимент представлен ниже</title>
         <author>
             <name>M2gnum</name>
         </author>
-        <link href="https://m2gnum.github.io/m2gnum/mugnum-dollarhop/"/>
-        <id>https://m2gnum.github.io/m2gnum/mugnum-dollarhop/</id>
+        <link href="https://m2gnum.github.io/M2gnum/mugnum-dollarhop/"/>
+        <id>https://m2gnum.github.io/M2gnum/mugnum-dollarhop/</id>
 
         <updated>2022-10-28T09:48:41+03:00</updated>
             <summary></summary>
         <content type="html">
             <![CDATA[
                 <div class="gallery-wrapper gallery-wrapper--wide"><div class="gallery"  data-is-empty="false" data-translation="Add images" data-columns="3">
-<figure class="gallery__item"><a href="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8297.jpg" data-size="4032x2268"><img loading="lazy" src="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8297-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8299.jpg" data-size="4032x2268"><img loading="lazy" src="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8299-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
-<figure class="gallery__item"><a href="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8298.jpg" data-size="4032x2268"><img loading="lazy" src="https://m2gnum.github.io/m2gnum/media/posts/2/gallery/IMG_8298-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8297.jpg" data-size="4032x2268"><img loading="lazy" src="https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8297-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8299.jpg" data-size="4032x2268"><img loading="lazy" src="https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8299-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
+<figure class="gallery__item"><a href="https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8298.jpg" data-size="4032x2268"><img loading="lazy" src="https://m2gnum.github.io/M2gnum/media/posts/2/gallery/IMG_8298-thumbnail.jpg" alt="" width="720" height="405"></a></figure>
 </div></div>
             ]]>
         </content>
